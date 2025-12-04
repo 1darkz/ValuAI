@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual env
+.venv/
+env/
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# ============================
+# OS / Editor files
+# ============================
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# ============================
+# Models
+# ============================
+models/*.joblib
+models/*.pkl
+models/*.h5
+models/*.pt
+
+# ============================
+# Data
+# ============================
+# Raw data is allowed, but processed data is optional.
+data/processed/*
+# Uncomment if you want to ignore all data
+data/*
+
+# ============================
+# Cache
+# ============================
+*.cache
+*.pytest_cache/
