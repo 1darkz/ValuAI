@@ -64,7 +64,7 @@ A simple baseline is used for comparison:
 - - RM_LSTAT
 - - LOG_DIS
 - - CRIM
-![alt text](image.png)
+![SHAP](SHAP.png)
 
 ---
 
