@@ -77,7 +77,7 @@ A simple baseline is used for comparison:
 
 ---
 
-## 8. Next Steos / Improvements
+## 8. Next Steps / Improvements
 Suggested improvements:
 - Hyperparameter tuning with Optuna / GridSearchCV
 - Adding external data: schools, amenities, etc.
